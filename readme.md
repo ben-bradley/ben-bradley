@@ -2,6 +2,8 @@
 
 ![Ben Bradley](./data/ben.jpg)
 
+# [Resume](./data/resume.md)
+
 ## Install
 
 ```bash
